@@ -1,1 +1,1 @@
-I developed two Python games designed for two players to play together on the same keyboard.
+I've submitted both Mini Project 1 and Mini Project 2 in the same repository
